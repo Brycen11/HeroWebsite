@@ -1,0 +1,50 @@
+body{
+	background-color: #e5f6df;
+	text-align: center;
+}
+
+#Title{
+	color: #003366;
+}
+
+img{
+	border-color: #0033FF;
+}
+
+.Subtitle{
+	font-size: 30px;
+	color: blue;
+}
+
+#enterheroinput{
+
+	width:60%;
+	height:40px;
+	border-radius: 10px;
+	border:1px solid white;
+}
+
+#Submitbutton{
+	background-color: blue;
+	color: white;
+	border:1px solid blue;
+	border-radius: 10px;
+
+}
+
+#powerstatstable{
+	width:60%;
+	font-size: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border:2px solid blue;
+	text-align: center;
+}
+
+th,td{
+	border:2px solid blue;
+}
+
+#Powerstats{
+	font-size: 40px;
+}
